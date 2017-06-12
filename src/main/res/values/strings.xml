@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Secubag-BaggageLocator</string>
+    <string name="title_activity_main">Secubag-BaggageLocator</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_notification">NotificationDemo</string>
+    <string name="StreetMapMenu">Streets</string>
+    <string name="TopoMenu">Topographic</string>
+    <string name="GrayMenu">Gray</string>
+    <string name="OceanMenu">Oceans</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Place Search</string>
+    <string name="search_hint">Search address or place</string>
+    <string name="menu_search">Search</string>
+
+    <string name="address_search">Searching for Address</string>
+    <string name="addressSearchFailed">Address search failed</string>
+    <string name="noResultsFound">No results found</string>
+
+    <string-array name="distance">
+        <item>Immediate</item>
+        <item>Near</item>
+        <item>Far</item>
+    </string-array>
+
+    <string-array name="frametype_array">
+        <item>iBeacon [UUID-Major-Minor]</item>
+        <item>Eddystone-UID [Instance-Namespace]</item>
+    </string-array>
+       <string name="title_activity_maps">Map</string>
+    <string name="default_info_title"/>
+    <string name="default_info_snippet"/>
+    <string name="mLatitudeLabel">Search</string>
+    <string name="mLongitudeLabel">Search</string>
+
+</resources>
